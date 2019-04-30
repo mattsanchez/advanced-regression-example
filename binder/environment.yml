@@ -1,0 +1,7 @@
+channels:
+  - conda-forge
+dependencies:
+  - pip:
+      - cortex-client
+      - jupyterlab==1.0.0a3
+  - python=3.6
